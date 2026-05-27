@@ -1,12 +1,12 @@
 # Student Management System
 
-Python वापरून बनवलेला simple CLI based project.
+Python simple CLI based project.
 
 ## Features
 1. Add Student
 2. View All Students 
 3. Delete Student
-4. Data JSON file मध्ये save होतो
+4. Data JSON file
 
 ## How to Run
 ```bash
